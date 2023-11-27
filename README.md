@@ -5,12 +5,15 @@ A project to determine the best neighborhoods in Pittsburgh by total arrests, to
 ### Group Members
 
 Aidan Liddy [liddy\_@pitt.edu](mailto:liddy_@pitt.edu)
+
 Wenhe Ma [wem48@pitt.edu](mailto:wem48@pitt.edu)
 
 ### Notebooks
 
 `education.ipynb`: Aidan
+
 `incidents.ipynb`: Aidan and Wenhe
+
 `parks.ipynb`: Wenhe
 
 ### Datasets
